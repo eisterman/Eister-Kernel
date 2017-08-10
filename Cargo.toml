@@ -1,0 +1,7 @@
+[package]
+name = "eister_os"
+version = "0.1.0"
+authors = ["Federico Pasqua <federico.pasqua.96@gmail.com>"]
+
+[lib]
+crate-type = ["staticlib"]
